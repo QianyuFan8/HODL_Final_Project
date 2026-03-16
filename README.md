@@ -1,4 +1,4 @@
-# Automated Medical Abstract Classification Using Deep Learning
+## Automated Medical Abstract Classification Using Deep Learning
 #### Group 42: Rita Fan, Yaju Lee, Chloe Qiu, Iris Zhang
 
 The volume of biomedical literature has grown at a pace that far exceeds the capacity of clinicians and researchers to review it manually. PubMed alone indexes more than 1.5 million new articles each year, creating significant challenges for information organization and retrieval in both clinical and research environments. Therefore, efficiently routing newly published research to the appropriate clinical specialties or research groups is an increasingly important task for healthcare institutions, pharmaceutical companies, and medical libraries. Automated classification systems capable of assigning disease categories to medical abstracts could substantially reduce the time required for literature triage, improve knowledge discovery, and enable more scalable biomedical information management.
